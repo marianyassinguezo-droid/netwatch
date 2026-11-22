@@ -5,9 +5,10 @@ entre deux scans nmap, génère un rapport et tient un journal.
 
 ## Utilisation
 
-  bash
-cp config.example.conf config.conf   # puis adapter le réseau
+```bash
+cp config.example.conf config.conf
 ./netwatch.sh
+```
 
 
 ## Prérequis
